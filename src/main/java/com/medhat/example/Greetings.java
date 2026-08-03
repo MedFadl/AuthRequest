@@ -1,4 +1,4 @@
-package com.medhat.rest;
+package com.medhat.example;
 
 
 import jakarta.annotation.security.RolesAllowed;

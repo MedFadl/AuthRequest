@@ -1,4 +1,4 @@
-package com.medhat.rest;
+package com.medhat.example;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
